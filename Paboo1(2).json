@@ -11,7 +11,7 @@
     "semanticColors": {
         "ACTIVITY_CARD_BACKGROUND": [
             "#420D09",
-            "#9d0006"
+            "#420D09"
         ],
         "BACKGROUND_FLOATING": [
             "#201200",
@@ -22,8 +22,8 @@
             "#e39f00af"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#e39f00af",
-            "#e39f00af"
+            "#990000",
+            "#990000"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#00e39505",
@@ -38,8 +38,8 @@
             "#060607"
         ],
         "BACKGROUND_ACCENT": [
-            "#774f0f",
-            "#774f0f"
+            "#420D09",
+            "#420D09"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#d2a0159aa",
