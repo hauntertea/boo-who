@@ -10,8 +10,8 @@
 
     "semanticColors": {
         "ACTIVITY_CARD_BACKGROUND": [
-            "#420D09",
-            "#420D09"
+            "#099do9",
+            "#099do9"
         ],
         "BACKGROUND_FLOATING": [
             "#201200",
@@ -66,8 +66,8 @@
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#201200",
-            "#201200"
+            "#420D09",
+            "#420D09"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#201200",
@@ -78,12 +78,12 @@
             "#060607"
         ],
         "CHANNELS_DEFAULT": [
-            "#617b7a",
-            "#617b7a"			
+            "#099do9",
+            "#099do9"			
         ],
         "CHANNEL_ICON": [
-            "#6a4800",
-            "#6a4800"
+            "#099do9",
+            "#099do9"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
             "#f0ce9c",
