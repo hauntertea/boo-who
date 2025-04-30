@@ -10,8 +10,8 @@
 
     "semanticColors": {
         "ACTIVITY_CARD_BACKGROUND": [
-            "#099do9",
-            "#099do9"
+            "#fb4934",
+            "#9d0006"
         ],
         "BACKGROUND_FLOATING": [
             "#201200",
@@ -22,8 +22,8 @@
             "#e39f00af"
         ],
         "BACKGROUND_MENTIONED_HOVER": [
-            "#990000",
-            "#990000"
+            "#e39f00af",
+            "#e39f00af"
         ],
         "BACKGROUND_MESSAGE_HOVER": [
             "#00e39505",
@@ -38,8 +38,8 @@
             "#060607"
         ],
         "BACKGROUND_ACCENT": [
-            "#099do9",
-            "#099do9"
+            "#774f0f",
+            "#774f0f"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
             "#d2a0159aa",
@@ -66,8 +66,8 @@
             "#000000"
         ],
         "BACKGROUND_SECONDARY": [
-            "#f7f0ec",
-            "#f7f0ec"
+            "#201200",
+            "#201200"
         ],
         "BACKGROUND_SECONDARY_ALT": [
             "#201200",
@@ -78,12 +78,12 @@
             "#060607"
         ],
         "CHANNELS_DEFAULT": [
-            "#099do9",
-            "#099do9"			
+            "#617b7a",
+            "#617b7a"			
         ],
         "CHANNEL_ICON": [
-            "#099do9",
-            "#099do9"
+            "#6a4800",
+            "#6a4800"
         ],
         "CHANNEL_TEXT_AREA_PLACEHOLDER":  [
             "#f0ce9c",
@@ -330,8 +330,8 @@
             "#d4b280"
         ],
         "TEXT_NORMAL": [
-            "#f7f0ec",
-            "#400000"
+            "#ffe3af",
+            "#ffe6af"
         ],
         "TEXT_POSITIVE": [
             "#ba903b",
